@@ -12,6 +12,6 @@ make the following folders
 |:----------|:-------------|
 | Launch acceleration_date.ipynb | Calculates launch acceleration for a rail launch missile at various altitudes and Mach numbers. | 
 | Link Analysis.ipynb | Link Analysis for RF link. |
-| Junction Temp Calculations.ipynb |   |
+| Junction Temp Calculations.ipynb | The python code in this notebook will calculate the junction temperature of a semiconductor device. Pulsed power and reliability considerations will also be addressed. |
 | 25MHz IF Bandwidth Study.ipynb | Look at occupted bandwidth within the IF channel |
 
