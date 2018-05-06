@@ -12,8 +12,6 @@ make the following folders
 |:----------|:-------------|
 | Launch acceleration_date.ipynb | Calculates launch acceleration for a rail launch missile at various altitudes and Mach numbers. | 
 | Link Analysis.ipynb | Link Analysis for RF link. |
-
-
-
-25MHz IF Bandwidth Study.ipynb
+| Junction Temp Calculations.ipynb |   |
+| 25MHz IF Bandwidth Study.ipynb | Look at occupted bandwidth within the IF channel |
 
