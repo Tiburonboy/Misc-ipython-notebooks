@@ -16,6 +16,6 @@ make the following folders
 | 25MHz IF Bandwidth Study.ipynb | Look at occupted bandwidth within the IF channel |
 | TQP3M9037 thermal | Simplified thermal analysis of the amplifiers used in the RF front end section of the phased phased array. |
 | SOQPSK-TG | Some python code to explore SOQPSK as defined in chapter 2 of IRIG 106-17, page 16, paragraph 2.3.3.2. This notebook walks through the describtion of SOQPSK as defined in IRIG 106-17 and implements differential coding, pre-coder and impulse shaping filter. |
-| Category 7 Jet aircraft vibration exposure | Compare the Grms level to DO-160 MIL-STD-810G levels and other typical aircraft enviroments |
+| Category 7 Jet aircraft vibration exposure | Compare vibration levels of DO-160, MIL-STD-810G and other typical aircraft enviroments |
 | parameters | Python code to interpolate device parameters at 70C and extrapolate parameters to -55C. |
 
